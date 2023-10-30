@@ -22,16 +22,19 @@ def ninja_intro(dictionary):
 
 ninja_belts = {}
 
-while True:
+while True:       # here while is true means it will run forever until we break it
     ninja_name = input("Enter a ninja name: ")
     ninja_belt = input("Enter a belt color: ")
     ninja_belts[ninja_name] = ninja_belt
     # here we are adding the key value pair to the dictionary 
     # ninja_belts is the dictionary and ninja_name is the key and ninja_belt is the value
-    print(ninja_belts)
+    # print(ninja_belts) - Tutorial of whether the key value pair is added or not
+
     another = input("Add another? (y/n) ")
     if another == "y":
         continue
+    elif another == "Ho":
+        print("Ho Ho Ho")
     else:            
         break
 
