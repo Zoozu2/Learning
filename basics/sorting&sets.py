@@ -47,3 +47,5 @@ while True:       # here while is true means it will run forever until we break 
         break
 
 belt_count(ninja_belts)
+
+# Revision completed
