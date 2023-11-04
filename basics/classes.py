@@ -27,3 +27,5 @@ print(f'Radius is {world.radius}')
 print(f'Gravity is {world.gravity}')
 print(f'System is {world.system}')
 print(world.orbit())
+
+# Name is Earth
