@@ -1,6 +1,6 @@
 # Basically functions means a block of code that performs a specific task.
 # Functions are used to avoid repetition of code.
-
+ 
 # Syntax of a function
 # def function_name():
 #     code to be executed
