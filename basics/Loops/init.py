@@ -1,5 +1,5 @@
 class Planet:
-    def __init__(self, name, radius, gravity, system):  #here we used __init__ method to initialize the object
+    def __init__(self, name, radius, gravity, system):  #here we used __init__ method to initialize the object and its attributes
         self.name = name
         self.radius = radius
         self.gravity = gravity
