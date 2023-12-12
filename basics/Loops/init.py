@@ -21,5 +21,5 @@ print(f'Radius is {nabo.radius}')
 print(f'Gravity is {nabo.gravity}')
 print(f'System is {nabo.system}')
 
-print(nabo.orbit())
+print(nabo.orbit()) 
 
