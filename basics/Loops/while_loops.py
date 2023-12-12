@@ -3,7 +3,8 @@ num = 0
 count = 0
 
 
-while num < age:
+while num < age:       
+# we used while loop to check if num is less than age
     if num == 2:
         num+=1
         continue
