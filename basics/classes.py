@@ -22,6 +22,7 @@ class Planet:
         return f'{self.name} is orbiting in the {self.system}'
 
 world = Planet()
+# here world is an object of the class Planet and planet is a blueprint for creating new objects
 print(f'Name is {world.name}')
 print(f'Radius is {world.radius}')
 print(f'Gravity is {world.gravity}')
