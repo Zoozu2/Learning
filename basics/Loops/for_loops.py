@@ -4,7 +4,7 @@ bros = ["shreyas", "tejas", "preshit",'anish','siddhesh','sahil']
 #     print(bro)
 # Output: shreyas tejas preshit anish
 
-# Assigning and check if a particular variable is in the code
+# Assigning and check if a particular variable is in the code.
 for bro in bros:
     if bro == "anish":
         print(f'{bro} - is my best friend')
@@ -12,3 +12,4 @@ for bro in bros:
         print(bro)
         
 # output: shreyas tejas preshit anish - is my best friend siddhesh sahil
+# I'm back lets go

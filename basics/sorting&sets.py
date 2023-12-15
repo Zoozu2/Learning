@@ -18,8 +18,10 @@
 
 # ninjas = {'ryu': 'black', 'yoshi': 'red', 'crystal': 'black'}
 # print(ninjas.values())           #this will give us the values of the dictionary ninjas
+# output = dict_values(['black', 'red', 'black']) 
 
-# print(set(ninjas.values()))             #this will give us a set of the values of the dictionary ninjas
+# print(set(ninjas.values())) this will give us a set of the values of the dictionary ninjas
+# output = {'black', 'red'}
 
 
 def belt_count(dictionary):
